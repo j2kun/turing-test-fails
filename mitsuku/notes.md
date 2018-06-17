@@ -1,5 +1,7 @@
 # Notes
 
+[Source](http://www.square-bear.co.uk/mitsuku/turing/)
+
 The program had a 5 minute time limit on a chat, and prevented you from typing
 while the AI was composing its message. Moreover, the program revealed the text
 of the AI slowly, as if to pretend it was typing very slowly. It produced
